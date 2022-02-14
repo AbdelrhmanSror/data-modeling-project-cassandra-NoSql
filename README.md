@@ -45,7 +45,7 @@ event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
 ```
 
-This directory is same as the *log_data* directory for this [project](https://github.com/sanjeevai/data-modeling-postgres/). You can [view](https://github.com/sanjeevai/data-modeling-postgres/tree/master/data/log_data/2018/11) it for more information.
+This directory is same as the *log_data* directory for this [project](https://github.com/AbdelrhmanSror/dataModelingProjectPostgreSql/). You can [view](https://github.com/AbdelrhmanSror/dataModelingProjectPostgreSql/tree/master/data/log_data/2018/11) it for more information.
 
 <a id="pre-etl"></a>
 
