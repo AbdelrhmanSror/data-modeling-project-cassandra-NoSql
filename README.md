@@ -113,7 +113,7 @@ This is similar to creating a database in Postgres where we specify the host and
 session.set_keyspace("udacity")
 ```
 
-This is very similar to what we used when we connected to Postgres database in the [previous project](https://github.com/sanjeevai/data-modeling-postgres/) and got a cursor to it like this:
+This is very similar to what we used when we connected to Postgres database in the [previous project](https://github.com/AbdelrhmanSror/dataModelingProjectPostgreSql/) and got a cursor to it like this:
 
 ```python
 conn = psycopg2.connect("host=127.0.0.1 dbname=studentdb user=student password=student")
