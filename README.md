@@ -69,7 +69,7 @@ This is what the file *event_datafile_new.csv* looks like. It has 6821 rows and 
 - song title
 - userId
 
-![Capture](https://github.com/AbdelrhmanSror/data-modeling-project-cassandra-NoSql/tree/main/img/Capture.jpg)
+![Capture](https://github.com/AbdelrhmanSror/data-modeling-project-cassandra-NoSql/blob/main/img/Capture.JPG)
 
 <a id="cassandra-code"></a>
 
