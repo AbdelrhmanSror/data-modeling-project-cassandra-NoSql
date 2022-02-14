@@ -69,7 +69,7 @@ This is what the file *event_datafile_new.csv* looks like. It has 6821 rows and 
 - song title
 - userId
 
-![image_event_datafile_new](./img/image_event_datafile_new.jpg)
+![image_event_datafile_new](./img/Capture.jpg)
 
 <a id="cassandra-code"></a>
 
