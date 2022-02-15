@@ -98,7 +98,7 @@ session = cluster.connect()
 
 ```python
 session.execute("""
-CREATE KEYSPACE IF NOT EXISTS udacity
+CREATE KEYSPACE IF NOT EXISTS cassandra
 WITH REPLICATION = {'class': 'SimpleStrategy', 'replication_factor': 1}"""
 )
 ```
@@ -110,7 +110,7 @@ This is similar to creating a database in Postgres where we specify the host and
 ### Set Keyspace
 
 ```python
-session.set_keyspace("udacity")
+session.set_keyspace("cassandra")
 ```
 
 This is very similar to what we used when we connected to Postgres database in the [previous project](https://github.com/AbdelrhmanSror/dataModelingProjectPostgreSql/) and got a cursor to it like this:
